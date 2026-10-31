@@ -22,7 +22,7 @@ body {
     background-color: var(--background);
     background-image:
         linear-gradient(rgba(4, 10, 18, 0.25), rgba(4, 10, 18, 0.25)),
-        url("photos/348-star.jpg");
+        url("photos/apod.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
